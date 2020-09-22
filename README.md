@@ -1,2 +1,2 @@
 # Paper-words
-Some normal and brilliant words can be used in academic papers.
+Some normal and brilliant words can be written in academic papers.
