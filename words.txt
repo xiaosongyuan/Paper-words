@@ -1,4 +1,4 @@
-ubiquitous      常见的，一般的，普遍的
+ubiquitous      无处不在的，常见的，一般的，普遍的
 novel           新的，全新的
 posit           假设，假定
 distinct        有区别的，截然不同的
@@ -28,3 +28,9 @@ facilitate      促进，促使，使容易
 perform         做，执行，履行；工作，表演；运转
 offset          抵消，抵制；补偿，弥补
 portfolio       文件夹
+commonly        经常地
+yield           得到，结果
+mimic           模仿
+disiderata      迫切需要的东西，必需品
+dilate          扩大，膨胀，扩张
+regime          组织方法，策略
