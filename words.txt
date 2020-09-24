@@ -34,3 +34,7 @@ mimic           模仿
 disiderata      迫切需要的东西，必需品
 dilate          扩大，膨胀，扩张
 regime          组织方法，策略
+hurt            降低，影响，伤害
+checkpoint      检查点
+sinusoidal      正弦曲线的
+modality        形式，形态；方式；样式；情态
