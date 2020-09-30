@@ -40,3 +40,5 @@ sinusoidal      正弦曲线的
 modality        形式，形态；方式；样式；情态
 eigenvector     特征向量
 eigenvalue      特征值
+circumvent      设法回避，规避，避免
+in-depth        进一步，详细的
