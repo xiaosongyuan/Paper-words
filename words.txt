@@ -45,4 +45,10 @@ in-depth        进一步，详细的
 be on par with  与同等，和平分秋色
 whereas         然而，但是
 conversely      相反地，反过来
-instantiation   实例化
+highlight       突出，强调
+consistent      连续的，一致的
+consider        考虑，思考
+empirical       经验主义的，以实验为依据的
+notion          观念，观点
+subsume         将归纳为，将归入
+endow           赋予
