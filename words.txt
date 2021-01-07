@@ -43,3 +43,5 @@ eigenvalue      特征值
 circumvent      设法回避，规避，避免
 in-depth        进一步，详细的
 be on par with  与同等，和平分秋色
+
+whereas         然而，但是
