@@ -58,3 +58,4 @@ in terms of     从...角度看，根据...来说
 with regard to  关于，对于
 with respect to 关于，至于
 align           使对齐，使一致
+off-the-shelf   现成的，已准备好的
