@@ -52,3 +52,9 @@ empirical       经验主义的，以实验为依据的
 notion          观念，观点
 subsume         将归纳为，将归入
 endow           赋予
+workaround      解决方法，应对方式
+elaborate       详尽的，精心制作的
+in terms of     从...角度看，根据...来说
+with regard to  关于，对于
+with respect to 关于，至于
+align           使对齐，使一致
