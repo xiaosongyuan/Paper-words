@@ -79,3 +79,4 @@ trade-off                   权衡，协调
 preliminary                 初始的，开始的，预备的
 prerequisite                前提，先决条件，必备条件
 calibrate                   标定，校准，测度
+veil                        遮住，掩盖
