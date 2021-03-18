@@ -71,3 +71,11 @@ approach                    方法，方式，算法
 progressively               逐渐地，持续稳定地
 intractable                 难以处理的，很难对付的
 tackle                      应付，处理，解决
+solely                      仅仅，只是，单独地
+extrapolate                 推断，外推
+in line with                与...一致，与...相符
+oscilate                    震荡，摇摆，波动
+trade-off                   权衡，协调
+preliminary                 初始的，开始的，预备的
+prerequisite                前提，先决条件，必备条件
+calibrate                   标定，校准，测度
