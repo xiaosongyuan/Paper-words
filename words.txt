@@ -101,3 +101,5 @@ caveat                      警告(需要注意)，告诫
 outline                     概述；略述；显示...的轮廓，勾勒...的外形
 pave the way for            为...铺开了道路
 unbreakable                 牢不可破的
+catastrophic                灾难性的；糟糕的；不成功的
+is the case in most times   在大多数情况下都是...
