@@ -117,3 +117,4 @@ high-stakes                 高风险的
 scenario                    场景，情景
 insight                     见解，看法
 deepen                      深化，加深
+fine-grained                细粒度的
