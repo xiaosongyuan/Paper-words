@@ -121,3 +121,4 @@ fine-grained                细粒度的
 draw upon                   借鉴；凭借，利用
 hand-crafted                手工的，手工制作的
 token off-the-shelf         现成的，已准备好的
+the construction of         ...的构造，...的结构
