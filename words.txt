@@ -139,3 +139,4 @@ be censored from            ...被从...中删除
 be fit with                 适用于
 seek to                     旨在...，目标是...
 discern                     区别，辨别
+It's non-trivial to         有意义的，重要的，不平凡的
