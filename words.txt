@@ -142,3 +142,4 @@ discern                     区别，辨别
 It's non-trivial to         有意义的，重要的，不平凡的
 start by doing              先做某事
 start with doing            从做某事开始
+aside from that             除此之外
