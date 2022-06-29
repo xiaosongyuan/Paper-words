@@ -153,3 +153,4 @@ delegate                    选择，挑选
 pro-con                     正反两方面的
 conserve                    保留，保持
 strong results              强有力的结果
+Alternatively               或者；另外
