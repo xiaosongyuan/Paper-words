@@ -168,3 +168,6 @@ hold up                     持有观点；认为
 free good                   免费的午餐
 underpining                 基础
 workhorse                   主力，主要；主流                 
+agile                       灵活的，敏捷的
+proprietary                 专有的
+orchestration               协调，和谐
