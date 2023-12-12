@@ -172,3 +172,4 @@ agile                       灵活的，敏捷的
 proprietary                 专有的
 orchestration               协调，和谐
 withhold                    保留，隐含
+amalgamate                  合并；使联合、混合
